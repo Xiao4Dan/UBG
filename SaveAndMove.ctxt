@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=setRow\ setCol
+comment0.target=void\ saveSpot(int,\ int)
+comment1.params=direction\ row\ col\ countR\ countC\ tele
+comment1.target=boolean\ checkAndAllow(java.lang.String,\ int,\ int,\ int,\ int,\ boolean)
+comment2.params=row\ col\ countR\ countC
+comment2.target=boolean\ checkTeleport(int,\ int,\ int,\ int)
+numComments=3
